@@ -37,8 +37,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
 
         desktopPane.add(registroUsuario);
         desktopPane.add(ventanaIniciarSesion);
-        desktopPane.add(registroTelefono);
-        desktopPane.add(gestionTelefono);;
+        desktopPane.add(gestionTelefono);
 
         this.setExtendedState(VentanaPrincipal.MAXIMIZED_BOTH);
     }
